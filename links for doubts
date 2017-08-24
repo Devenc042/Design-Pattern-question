@@ -5,3 +5,7 @@ Difference between static and instance method(non-static method)
 https://stackoverflow.com/questions/11993077/difference-between-static-methods-and-instance-methods
 http://www.geeksforgeeks.org/static-methods-vs-instance-methods-java/
 
+Singleton are bad
+https://softwareengineering.stackexchange.com/questions/147698/alternatives-to-the-singleton-pattern
+https://softwareengineering.stackexchange.com/questions/40373/so-singletons-are-bad-then-what
+https://stackoverflow.com/questions/162042/are-there-any-viable-alternatives-to-the-gof-singleton-pattern
